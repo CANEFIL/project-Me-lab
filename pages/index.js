@@ -87,7 +87,7 @@ export default function Home() {
             </h4>
             <nav className="mt-4 flex flex-col space-y-2 text-md text-zinc-700 text-center">
               <a href="" className="hover:underline">Facebook</a>
-              <a href="" className="hover:underline">Instagram</a>
+              <a href="https://www.instagram.com/projectme_app/" className="hover:underline">Instagram</a>
               <a href="https://www.linkedin.com/company/projectmeapp" className="hover:underline">LinkedIn</a>
             </nav>
           </div>
