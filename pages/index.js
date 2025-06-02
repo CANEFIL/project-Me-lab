@@ -9,35 +9,32 @@ export default function Home() {
       <Hero />
       <section className="container mx-auto mt-50">
         <h2 className="text-4xl font-bold mb-8 text-center text-zinc-700">
-          Featured Cards
+          What Makes Us Different
         </h2>
         <p className="text-zinc-700 text-center font-semibold text-xl mb-25">
-          Explore our featured cards showcasing the best of ProjectMe Lab.
+          We build on strong foundations and values that define everything we
+          do.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6 mt-8">
           <Cards
-            title="Card 1"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+            title="Innovation First"
+            description="We follow trends and deliver modern apps that make a real impact."
           />
           <Cards
-            title="Card 2"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+            title="Collaboration & Trust"
+            description="We involve clients at every step – creating with you, not just for you."
           />
           <Cards
-            title="Card 3"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+            title="Agile Development"
+            description="We develop flexibly, respond quickly to change, and ensure top quality."
           />
           <Cards
-            title="Card 4"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+            title="Our Values"
+            description="Transparency, meaningful creativity, and long-term impact over quick profit."
           />
           <Cards
-            title="Loyality"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
-          />
-          <Cards
-            title="Card 6"
-            description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+            title="Why Choose Us?"
+            description="We build on real human and business needs – shaping the future of applications."
           />
         </div>
       </section>
@@ -67,7 +64,10 @@ export default function Home() {
               <a href="#" className="hover:underline">
                 Privacy Policy
               </a>
-              <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" className="hover:underline">
+              <a
+                href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+                className="hover:underline"
+              >
                 Terms and Conditions
               </a>
             </nav>
