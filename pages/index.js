@@ -32,7 +32,7 @@ export default function Home() {
             description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
           />
           <Cards
-            title="Card 5"
+            title="Loyality"
             description="lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
           />
           <Cards
