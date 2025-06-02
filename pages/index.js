@@ -51,7 +51,7 @@ export default function Home() {
       <section className="bg-lime-400 mt-30 py-20 text-zinc-700 w-full">
         <div className="container px-4 text-center mx-auto">
           <blockquote className="mx-auto max-w-2xl">
-            <p className="text-4xl text-zinc-700 font-bold md:text-4xl">"Built on trust. Driven by innovation."</p>
+            <p className="text-4xl text-zinc-700 font-bold md:text-4xl">Built on trust. Driven by innovation.</p>
             <footer className="mt-8">
               <p className="text-lg text-zinc-700 font-semibold">Tema ProjectMe Lab</p>
             </footer>
